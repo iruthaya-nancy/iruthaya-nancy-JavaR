@@ -11,6 +11,7 @@ public class Lab {
      * Instead, this method must return a hello world String, instead of returning 
      * "change me". A test case will check if the behavior is as expected.
      * You should use the test results to check for differences.
+     * this is the additional code.
      * 
      * @return "Hello, world!"
      */
